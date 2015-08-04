@@ -1,0 +1,23 @@
+1,Vassar
+1,Emerson
+2,U New Haven
+2,U Rochester
+2,Syracuse
+2,CAMPS
+3,SUNY Genesseo
+3,U Vermont
+3,Macaulay
+3,Hofstra
+3,U Rhode Island
+4,NYU
+4,U Massachusetts
+4,Brandeis
+4,Harvard
+4,Tufts
+5,Boston Riot
+5,NY Badassilisks
+5,RPI
+5,RIT
+5,Boston University
+1,Middlebury
+2,Green Mountain

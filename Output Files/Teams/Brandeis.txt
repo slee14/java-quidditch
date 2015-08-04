@@ -1,0 +1,6 @@
+Team Name: Brandeis
+Pool: 4
+Win %: 0.0
+APD/#matches: -65.0
+Quaffle Points For/#matches: 0.0
+Quaffle Points Against/#matches: 0.0

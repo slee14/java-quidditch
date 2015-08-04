@@ -1,0 +1,6 @@
+Team Name: Stony Brook
+Pool: 1
+Win %: 0.3333333333333333
+APD/#matches: -22.35702260395516
+Quaffle Points For/#matches: 0.0
+Quaffle Points Against/#matches: 0.0

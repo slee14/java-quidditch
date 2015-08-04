@@ -1,0 +1,6 @@
+Team Name: Green Mountain
+Pool: 2
+Win %: 0.25
+APD/#matches: -5.0
+Quaffle Points For/#matches: 0.0
+Quaffle Points Against/#matches: 0.0

@@ -1,0 +1,6 @@
+Team Name: U Rochester
+Pool: 2
+Win %: 0.75
+APD/#matches: 42.5
+Quaffle Points For/#matches: 0.0
+Quaffle Points Against/#matches: 0.0

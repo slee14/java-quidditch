@@ -1,0 +1,7 @@
+Pool 1
+1 Emerson
+2 Vassar
+3 Stony Brook
+4 Middlebury
+
+

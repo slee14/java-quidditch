@@ -1,0 +1,6 @@
+Team Name: RIT
+Pool: 5
+Win %: 0.75
+APD/#matches: 40.38580094171626
+Quaffle Points For/#matches: 0.0
+Quaffle Points Against/#matches: 0.0

@@ -1,0 +1,6 @@
+Team Name: Vassar
+Pool: 1
+Win %: 0.6666666666666666
+APD/#matches: 3.3333333333333335
+Quaffle Points For/#matches: 0.0
+Quaffle Points Against/#matches: 0.0

@@ -1,0 +1,6 @@
+Team Name: RPI
+Pool: 5
+Win %: 0.0
+APD/#matches: -87.56367564537165
+Quaffle Points For/#matches: 0.0
+Quaffle Points Against/#matches: 0.0

@@ -1,0 +1,33 @@
+How to run the program. 
+
+1. Submit the number of pools you want in the tournament. 
+	Example: We have 5 pools, so submit 5
+
+2. Select the mode of input from the drop down menu for team information, fill out the text field, and click submit. Your options are: 
+	Text File -- Eg. teams.txt
+	Text Field -- Eg. 1,Snitch  (The text file would be a list of these)
+	Database -- No entry necessary. Can only be used after the program has been 
+		    run once and saved 
+
+3. Select the mode of input from the drop down menu for match information, fill out the text field, and click submit. Your options are: 
+	Text File -- eg. matches.txt
+	Text Field -- Eg. Snitch,Bludger,10,80*  (The text file would be a list of these) 
+	Database -- No entry necexssary. Can only be used after the program has been 
+		    run once and saved 
+
+4. Select the type of information you want to be displayed and click submit. Your options are:
+	Overall Rankings
+	Rankings by Pool
+	Pool Information
+	Match Information
+	Team Information
+
+5. 	Write Ranking -- writes the overall rankings
+	Write Infos -- writes the Teams folder and the Pools folders, which are located in the Output Files folder 
+	Save -- writes the Database folder 
+	Close -- exits the program 
+	
+
+	
+
+

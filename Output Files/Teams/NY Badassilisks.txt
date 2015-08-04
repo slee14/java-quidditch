@@ -1,0 +1,6 @@
+Team Name: NY Badassilisks
+Pool: 5
+Win %: 0.25
+APD/#matches: -25.16872472013734
+Quaffle Points For/#matches: 0.0
+Quaffle Points Against/#matches: 0.0

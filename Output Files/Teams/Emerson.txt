@@ -1,0 +1,6 @@
+Team Name: Emerson
+Pool: 1
+Win %: 1.0
+APD/#matches: 69.02368927062183
+Quaffle Points For/#matches: 0.0
+Quaffle Points Against/#matches: 0.0

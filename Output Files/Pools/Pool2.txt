@@ -1,0 +1,8 @@
+Pool 2
+1 U Rochester
+2 Syracuse
+3 CAMPS
+4 U New Haven
+5 Green Mountain
+
+

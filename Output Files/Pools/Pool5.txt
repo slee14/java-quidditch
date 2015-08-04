@@ -1,0 +1,8 @@
+Pool 5
+1 Boston University
+2 RIT
+3 Boston Riot
+4 NY Badassilisks
+5 RPI
+
+

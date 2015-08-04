@@ -1,0 +1,8 @@
+Pool 3
+1 Hofstra
+2 SUNY Genesseo
+3 Macaulay
+4 U Vermont
+5 U Rhode Island
+
+

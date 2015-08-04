@@ -1,0 +1,34 @@
+Pool 1
+1 Emerson
+2 Vassar
+3 Stony Brook
+4 Middlebury
+
+Pool 2
+1 U Rochester
+2 Syracuse
+3 CAMPS
+4 U New Haven
+5 Green Mountain
+
+Pool 3
+1 Hofstra
+2 SUNY Genesseo
+3 Macaulay
+4 U Vermont
+5 U Rhode Island
+
+Pool 4
+1 Tufts
+2 NYU
+3 U Massachusetts
+4 Harvard
+5 Brandeis
+
+Pool 5
+1 Boston University
+2 RIT
+3 Boston Riot
+4 NY Badassilisks
+5 RPI
+

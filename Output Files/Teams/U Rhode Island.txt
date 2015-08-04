@@ -1,0 +1,6 @@
+Team Name: U Rhode Island
+Pool: 3
+Win %: 0.0
+APD/#matches: -81.40862762810329
+Quaffle Points For/#matches: 0.0
+Quaffle Points Against/#matches: 0.0

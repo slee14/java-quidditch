@@ -1,0 +1,6 @@
+Team Name: NYU
+Pool: 4
+Win %: 0.75
+APD/#matches: 15.0
+Quaffle Points For/#matches: 0.0
+Quaffle Points Against/#matches: 0.0

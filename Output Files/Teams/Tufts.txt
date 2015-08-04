@@ -1,0 +1,6 @@
+Team Name: Tufts
+Pool: 4
+Win %: 1.0
+APD/#matches: 72.5
+Quaffle Points For/#matches: 0.0
+Quaffle Points Against/#matches: 0.0

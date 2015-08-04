@@ -1,0 +1,6 @@
+Team Name: U Vermont
+Pool: 3
+Win %: 0.25
+APD/#matches: -38.4609564600981
+Quaffle Points For/#matches: 0.0
+Quaffle Points Against/#matches: 0.0

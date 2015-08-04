@@ -1,0 +1,6 @@
+Team Name: U Massachusetts
+Pool: 4
+Win %: 0.5
+APD/#matches: -12.5
+Quaffle Points For/#matches: 0.0
+Quaffle Points Against/#matches: 0.0

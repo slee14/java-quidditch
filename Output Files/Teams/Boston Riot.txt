@@ -1,0 +1,6 @@
+Team Name: Boston Riot
+Pool: 5
+Win %: 0.5
+APD/#matches: -0.14441791116459513
+Quaffle Points For/#matches: 0.0
+Quaffle Points Against/#matches: 0.0

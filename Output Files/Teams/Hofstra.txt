@@ -1,0 +1,6 @@
+Team Name: Hofstra
+Pool: 3
+Win %: 1.0
+APD/#matches: 77.94575203258486
+Quaffle Points For/#matches: 0.0
+Quaffle Points Against/#matches: 0.0

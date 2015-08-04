@@ -1,0 +1,6 @@
+Team Name: SUNY Genesseo
+Pool: 3
+Win %: 0.75
+APD/#matches: 21.93649167310371
+Quaffle Points For/#matches: 0.0
+Quaffle Points Against/#matches: 0.0

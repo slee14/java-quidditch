@@ -1,0 +1,23 @@
+NY Badassilisks,Boston University,20,160*
+Boston Riot,NY Badassilisks,80*,0
+U Vermont,U Rhode Island,80*,20
+RPI,RIT,30,160*
+U Massachusetts,Tufts,80,160*
+U Rochester,Green Mountain,40,100*
+Harvard,Tufts,50,120*
+NYU,Brandeis,130,60*
+U Vermont,Hofstra,0,150*
+U New Haven,Green Mountain,80*,80,40*,0
+U Massachusetts,Brandeis,150,100*
+Stony Brook,Middlebury,90*,30
+NY Badassilisks,RPI,160*,30
+Boston Riot,RIT,60,160*
+U Massachusetts,Harvard,60,60*,40*,10
+Hofstra,SUNY Genesseo,120,70*
+Boston Riot,Boston University,10,110*
+Hofstra,U Rhode Island,190,30*
+Stony Brook,Emerson,0,130*
+NY Badassilisks,RIT,40,60*
+Middlebury,Vassar,20,60*
+NYU,Tufts,30,100*
+Vassar,Emerson,40,110*

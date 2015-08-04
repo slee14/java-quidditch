@@ -1,0 +1,6 @@
+Team Name: Macaulay
+Pool: 3
+Win %: 0.5
+APD/#matches: 19.987340382512812
+Quaffle Points For/#matches: 0.0
+Quaffle Points Against/#matches: 0.0
